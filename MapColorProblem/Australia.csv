@@ -1,0 +1,8 @@
+,Western Australia,Northern Territory,Queensland,South Australia,New South Wales,Victoria,Tasmania
+Western Australia,0,1,0,1,0,0,0
+Northern Territory,1,0,1,1,0,0,0
+Queensland,0,1,0,1,1,0,0
+South Australia,1,1,1,0,1,1,0
+New South Wales,0,0,1,1,0,1,0
+Victoria,0,0,0,1,1,0,1
+Tasmania,0,0,0,0,0,1,0
